@@ -18,7 +18,7 @@ public class Scanner {
 		System.out.println("Emp City is "+empCity);
 		String empClass="sat";
 		System.out.println("Class is "+ empClass);
-		
+
 	}
 
 }
