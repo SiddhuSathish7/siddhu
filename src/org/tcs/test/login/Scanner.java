@@ -18,7 +18,8 @@ public class Scanner {
 		System.out.println("Emp City is "+empCity);
 		String empPlace="salem";
 		System.out.println("Emp Place is "+ empPlace);
-		
+		String empNative="sankari";
+		System.out.println("Native place is "+ empNative);
 	}
 
 }
